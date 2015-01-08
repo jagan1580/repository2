@@ -7,5 +7,7 @@
 
 <body>
 First HTML Page on Git
+
+Included second line.
 </body>
 </html>
